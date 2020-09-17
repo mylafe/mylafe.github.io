@@ -1,3 +1,5 @@
 # mylafe.github.io
 
-[搭建](https://guides.github.com/features/pages/)
+- [blog](https://mylafe.github.io/)
+
+- [搭建](https://guides.github.com/features/pages/)
